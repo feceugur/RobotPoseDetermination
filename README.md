@@ -1,2 +1,2 @@
 # RobotPoseDetermination
-Robot pose determination for Robocup Competition with OpenCV
+Robot pose determination for Robocup Competition using OpenCV
